@@ -2,7 +2,7 @@
 - 👀 I’m interested in software, space engineering, robots and more ! 
 - 🌱 I’m currently learning java java script
 - 📫 How to reach me ==> linkedn link: https://www.linkedin.com/in/iahmetr/
-- 🚀 I have shown my skills on rocket software systems, software manufacturing via company. 
+- 🚀 I have shown my skills on rocket software systems, software manufacturing via companies. 
 
 <!---
 codalannce/codalannce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
