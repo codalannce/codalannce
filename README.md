@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codalannce
-- 👀 I’m interested in software, space engineering, robots and more ! 
-- 🌱 I’m currently learning java java script
+- 👀 I’m interested in all tech applications :)
+- 🌱 I’m currently learning Embedded C applications, microprocessors, acoustic electronics and more!
 - 📫 How to reach me ==> linkedn link: [https://www.linkedin.com/in/iahmetr/](https://www.linkedin.com/in/iahmetsait/)
 - 🚀 I have shown my skills on rocket software systems, software manufacturing via companies. 
 
